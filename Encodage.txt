@@ -1,0 +1,26 @@
+{'Conseil': {'Aller aux urgences immédiatement': 0,
+             'Consulter un médecin généraliste': 1},
+
+ 'Maladie Diagnostiquée': {'Allergie': 0,
+                           'Asthme': 1,
+                           'COVID-19': 2,
+                           "Crise d'épilepsie": 3,
+                           'Gastro-entérite': 4,
+                           'Hypotension orthostatique': 5,
+                           'Infarctus du myocarde': 6,
+                           'Migraine': 7,
+                           'Pneumonie': 8,
+                           'Syndrome de fatigue chronique': 9},
+
+ 'Sexe': {'Femme': 0, 'Homme': 1},
+
+ 'Symptômes': {'Difficulté à respirer': 0,
+               'Douleur thoracique': 1,
+               'Douleurs abdominales': 2,
+               'Fatigue extrême': 3,
+               'Fièvre élevée': 4,
+               'Maux de tête': 5,
+               'Perte de conscience': 6,
+               'Toux persistante': 7,
+               'Vertiges': 8,
+               'Éruption cutanée': 9}}
